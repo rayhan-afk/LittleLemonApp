@@ -5,7 +5,7 @@ export default function LittleLemonFooter() {
   return (
     <View
       style={{
-        backgroundColor: '#F4CE14',
+        backgroundColor: '#EE9972',
         marginBottom: 10,
       }}>
       <Text
@@ -14,7 +14,7 @@ export default function LittleLemonFooter() {
           color: 'black',
           textAlign: 'center',
         }}>
-        All rights reserved by Little Lemon, 2022{' '}
+        All rights reserved by Little Lemon, 2024{' '}
       </Text>
     </View>
   );
